@@ -15,8 +15,8 @@ public class EnviarCorreo {
     private String sCorreoReceptor;
     private String sMensajeCorreo;
     private String sNombreCorreo;
-    private String sCorreo = "josefraile@gmail.com";
-    private String sContraseña = "5713jmvf";
+    private String sCorreo = "cuenta de correo";
+    private String sContraseña = "contraseña";
     private Session session;
 
     public EnviarCorreo(String sNombreCorreo, String sCorreoReceptor, String sMensajeCorreo){
