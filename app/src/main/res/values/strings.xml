@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="app_title">Listado de Mascotas</string>
+    <string name="app_detail">Perfil de Mascotas</string>
+
+    <string name="sNombreHint">Nombre</string>
+    <string name="sCorreoHint">Correo electrónico</string>
+    <string name="sMensajeHint">Mensaje</string>
+    <string name="sBoton">Enviar</string>
+
+    <string name="mContacto">Contacto</string>
+    <string name="mAcercaDe">Acerca de&#8230;</string>
+
+    <!-- Acerca de -->
+    <string name="tTitulo">Mascotas</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvDesarrollador">Jose Miguel</string>
+    <string name="tvNombrePais">País</string>
+    <string name="tvPais">ESPAÑA</string>
+
+    <!-- Contacto -->
+    <string name="tContacto">Contacto</string>
+
+    <!-- Perfil -->
+    <string name="sNombreMascota">Oveja</string>
+
+</resources>
